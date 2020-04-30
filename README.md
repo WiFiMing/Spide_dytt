@@ -6,7 +6,7 @@
 
 二、使用方法
 运行main.py程序，输入需要爬取的页面范围（即起止页码），运行时界面示意图输入（本人使用Pycharm运行）：
-
+![image](https://github.com/lisisili/Spide_dytt/blob/master/Image/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.JPG)
 也可以根据自己需要修改output.py中的输出内容进行修改，得到输出内容
 
 三、目前问题
